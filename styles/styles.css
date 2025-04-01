@@ -1,0 +1,44 @@
+* {
+  padding: 0px;
+}
+
+body {
+  width: 100vh;
+  height: 100vh;
+  border: 2px solid black;
+}
+
+.cv {
+  font-family: Arial;
+  border-top: 2px solid black;
+  margin: 24px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+b {
+  color: rgb(81, 81, 248);
+}
+
+.highschool {
+  margin-top: 21px;
+}
+
+.college {
+  margin-top: 21px;
+}
+
+.college-1 {
+  margin-top: 21px;
+}
+
+.experience {
+  margin-top: 21px;
+}
+
+h4 {
+  color: rgb(93, 189, 93);
+}
